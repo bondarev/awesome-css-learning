@@ -50,3 +50,12 @@ Tools list:
 - [CSS Reset – Eric A. Meyer](https://meyerweb.com/eric/tools/css/reset/)
 - [Normalize CSS](https://github.com/necolas/normalize.css)
 - [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
+
+# Semantic and Accessibility 🌱
+- [Semantics – MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [WAI-ARIA basics – MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
+- [HTML: A good basis for accessibility – MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Semantic HTML: the foundation of web accessibility – Medium](https://uxdesign.cc/semantic-html-the-foundation-of-web-accessibility-e5bbecad7c17)
+- [Доступность – Дока](https://doka.guide/a11y/)
+- [Введение в ARIA – Дока](https://doka.guide/a11y/aria-intro/)
+- [Забудьте про div, семантика спасёт интернет – Habr](https://habr.com/ru/companies/htmlacademy/articles/546500/)
