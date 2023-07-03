@@ -59,3 +59,7 @@ Tools list:
 - [Доступность – Дока](https://doka.guide/a11y/)
 - [Введение в ARIA – Дока](https://doka.guide/a11y/aria-intro/)
 - [Забудьте про div, семантика спасёт интернет – Habr](https://habr.com/ru/companies/htmlacademy/articles/546500/)
+
+# Layout 🧩
+- [CSS layout – MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+- [CSS Layout – Smashing Magazine](https://www.smashingmagazine.com/guides/css-layout/)
