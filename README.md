@@ -69,6 +69,7 @@ Tools list:
 - [A Complete Guide to Flexbox – CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Гайд по Flexbox – Дока](https://doka.guide/css/flexbox-guide/)
 - [Полное руководство по Flexbox – Habr](https://habr.com/ru/articles/467049/)
+
 # Media Queries and Responsive Design 📱
 - [Beginner's guide to media queries – MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 - [Using media queries – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
@@ -81,3 +82,4 @@ Tools list:
 - [Метатег viewport: почему он важен и как его правильно использовать – Timeweb Community](https://timeweb.com/ru/community/articles/metateg-viewport-pochemu-on-vazhen-i-kak-ego-pravilno-ispolzovat)
 - [Особенности адаптивного дизайна сайта – Гутдизайн](http://gutdesign.ru/shkola/directory/osobennosti_adaptivnogo_dizayna_sayta_chast_1)
 - [Формат изображений WebP: что это такое и зачем он нужен – Timeweb Community](https://timeweb.com/ru/community/articles/format-izobrazheniy-webp)
+- [<picture> Element Sample – Google](https://googlechrome.github.io/samples/picture-element/)
