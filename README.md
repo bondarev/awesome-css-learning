@@ -83,3 +83,15 @@ Tools list:
 - [Особенности адаптивного дизайна сайта – Гутдизайн](http://gutdesign.ru/shkola/directory/osobennosti_adaptivnogo_dizayna_sayta_chast_1)
 - [Формат изображений WebP: что это такое и зачем он нужен – Timeweb Community](https://timeweb.com/ru/community/articles/format-izobrazheniy-webp)
 - [<picture> Element Sample – Google](https://googlechrome.github.io/samples/picture-element/)
+
+# Animation and Transitions 🎬
+- [Using CSS transitions – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
+- [Using CSS animations – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
+- [CSS Transitions and Transforms for Beginners – Thoughtbot Blog](https://thoughtbot.com/blog/transitions-and-transforms)
+- [Avoid large, complex layouts and layout thrashing – web.dev](https://web.dev/avoid-large-complex-layouts-and-layout-thrashing/)
+- [Intro to CSS 3D transforms – David DeSandro](https://3dtransforms.desandro.com/)
+- [Свойство transition – Дока](https://doka.guide/css/transition/)
+- [CSS-анимации – Дока](https://doka.guide/css/animation/)
+- [Разбираемся в анимациях и временных переходах в CSS – Habr](https://habr.com/ru/companies/netologyru/articles/692466/)
+- [CSS 3 Timing Functions и с чем их едят – Habr](https://habr.com/ru/articles/220715/)
+- [CSS3 3D-трансформации – HTML5BOOK.RU](https://html5book.ru/3d-transform/)
