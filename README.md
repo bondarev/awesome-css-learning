@@ -37,7 +37,7 @@ CSS basics, Concepts and Fundamentals.
 - [MCSS](https://github.com/robhrt7/MCSS)
 - [AMCSS](https://amcss.github.io/)
 - [FUN](https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
----
+
 - [Atomic OOBEMITSCSS – SitePoint](https://www.sitepoint.com/atomic-oobemitscss/)
 - [Способы организации CSS-кода – Habr](https://habr.com/ru/articles/256109/)
 ## Reset and Normalize
