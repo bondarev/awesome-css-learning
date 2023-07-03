@@ -40,3 +40,13 @@ CSS basics, Concepts and Fundamentals.
 ---
 - [Atomic OOBEMITSCSS – SitePoint](https://www.sitepoint.com/atomic-oobemitscss/)
 - [Способы организации CSS-кода – Habr](https://habr.com/ru/articles/256109/)
+## Reset and Normalize
+What is CSS Reset & Normalize and how Do You Use It?
+  - [A tale of CSS Resets and Everything You Need to Know About Them – Medium](https://medium.com/weekly-webtips/a-tale-of-css-resets-and-everything-you-need-to-know-about-them-781849d9b7f2)
+  - [Normalize CSS or CSS Reset?! – Medium](https://elad.medium.com/normalize-css-or-css-reset-9d75175c5d1e)
+  - [История о CSS-сбросах и все, что о них нужно знать – Habr](https://habr.com/ru/companies/otus/articles/580442/)
+
+Tools list:
+- [CSS Reset – Eric A. Meyer](https://meyerweb.com/eric/tools/css/reset/)
+- [Normalize CSS](https://github.com/necolas/normalize.css)
+- [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
