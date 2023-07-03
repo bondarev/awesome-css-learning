@@ -63,3 +63,9 @@ Tools list:
 # Layout 🧩
 - [CSS layout – MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [CSS Layout – Smashing Magazine](https://www.smashingmagazine.com/guides/css-layout/)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+## Flexbox
+- [Basic concepts of Flexbox – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+- [A Complete Guide to Flexbox – CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Гайд по Flexbox – Дока](https://doka.guide/css/flexbox-guide/)
+- [Полное руководство по Flexbox – Habr](https://habr.com/ru/articles/467049/)
