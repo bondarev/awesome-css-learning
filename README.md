@@ -1,6 +1,8 @@
 # 🎨 Awesome HTML and CSS Learning 
 This is an awesome collection of the best HTML and CSS learning resources.
 
+# Table of Contents
+
 # References 📖
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) – just the most extensive and up-to-date CSS reference.
 - [Codrops](https://tympanus.net/codrops/css_reference/) – an extensive CSS reference with all the important properties and info to learn CSS from the basics.
