@@ -3,6 +3,13 @@ This is an awesome collection of the best HTML and CSS learning resources.
 
 ## Table of Contents
 
+- [:book: References](#references-book)
+- [:baby_chick: Concepts and Fundamentals](#concepts-and-fundamentals-baby_chick)
+- [:seedling: Semantic and Accessibility](#semantic-and-accessibility-seedling)
+- [:jigsaw: Layout](#layout-jigsaw)
+- [:iphone: Media Queries and Responsive Design](#media-queries-and-responsive-design-iphone)
+- [:clapper: Animation and Transitions](#animation-and-transitions-clapper)
+
 ## References :book:
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) – just the most extensive and up-to-date CSS reference.
 - [Codrops](https://tympanus.net/codrops/css_reference/) – an extensive CSS reference with all the important properties and info to learn CSS from the basics.
