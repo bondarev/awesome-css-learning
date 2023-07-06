@@ -138,3 +138,15 @@ Tools list:
 - [Разбираемся в анимациях и временных переходах в CSS – Habr](https://habr.com/ru/companies/netologyru/articles/692466/)
 - [CSS 3 Timing Functions и с чем их едят – Habr](https://habr.com/ru/articles/220715/)
 - [CSS3 3D-трансформации – HTML5BOOK.RU](https://html5book.ru/3d-transform/)
+
+
+## Games to Learn :video_game:
+
+### Flexbox
+
+-  [Flexbox Froggy](https://flexboxfroggy.com/)
+-  [Flexbox Defence](http://www.flexboxdefense.com/)
+
+### Grid
+
+-  [Grid Garden](https://cssgridgarden.com/)
