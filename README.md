@@ -5,12 +5,13 @@ This is an awesome collection of the best HTML and CSS learning resources.
 
 ## Table of Contents
 
-- [:book: References](#references-book)
-- [:baby_chick: Concepts and Fundamentals](#concepts-and-fundamentals-baby_chick)
-- [:seedling: Semantic and Accessibility](#semantic-and-accessibility-seedling)
-- [:jigsaw: Layout](#layout-jigsaw)
-- [:iphone: Media Queries and Responsive Design](#media-queries-and-responsive-design-iphone)
-- [:clapper: Animation and Transitions](#animation-and-transitions-clapper)
+- :book: [References](#references-book)
+- :baby_chick: [Concepts and Fundamentals](#concepts-and-fundamentals-baby_chick)
+- :seedling: [Semantic and Accessibility](#semantic-and-accessibility-seedling)
+- :jigsaw: [Layout](#layout-jigsaw)
+- :iphone: [Media Queries and Responsive Design](#media-queries-and-responsive-design-iphone)
+- :clapper: [Animation and Transitions](#animation-and-transitions-clapper)
+- :video_game: [Games to Learn](#games-to-learn-video_game)
 
 
 ## References :book:
