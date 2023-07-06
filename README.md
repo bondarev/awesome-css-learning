@@ -9,7 +9,7 @@ This is an awesome collection of the best HTML and CSS learning resources.
 - [Дока](https://doka.guide/css/) – открытый проект с актуальными материалами для веб-разработчиков от веб-разработчиков.
 - [Can I use](https://caniuse.com/) – up-to-date browser support tables for support of front-end web technologies on web browsers.
 
-## Concepts and Fundamentals 🐤
+## Concepts and Fundamentals :baby_chick:
 CSS basics, Concepts and Fundamentals.
 ### Cascade, specificity and inheritance
 - [Cascade, specificity, and inheritance – MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
@@ -53,7 +53,7 @@ Tools list:
 - [Normalize CSS](https://github.com/necolas/normalize.css)
 - [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
 
-## Semantic and Accessibility 🌱
+## Semantic and Accessibility :seedling:
 - [Semantics – MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [WAI-ARIA basics – MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
 - [HTML: A good basis for accessibility – MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
@@ -62,7 +62,7 @@ Tools list:
 - [Введение в ARIA – Дока](https://doka.guide/a11y/aria-intro/)
 - [Забудьте про div, семантика спасёт интернет – Habr](https://habr.com/ru/companies/htmlacademy/articles/546500/)
 
-## Layout 🧩
+## Layout :jigsaw:
 - [CSS layout – MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [CSS Layout – Smashing Magazine](https://www.smashingmagazine.com/guides/css-layout/)
 - [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
@@ -76,7 +76,7 @@ Tools list:
 - [A Complete Guide to CSS Grid – CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Гайд по grid – Дока](https://doka.guide/css/grid-guide/)
 
-## Media Queries and Responsive Design 📱
+## Media Queries and Responsive Design :iphone:
 - [Beginner's guide to media queries – MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 - [Using media queries – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 - [@media statement – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
@@ -90,7 +90,7 @@ Tools list:
 - [Формат изображений WebP: что это такое и зачем он нужен – Timeweb Community](https://timeweb.com/ru/community/articles/format-izobrazheniy-webp)
 - [<picture> Element Sample – Google](https://googlechrome.github.io/samples/picture-element/)
 
-## Animation and Transitions 🎬
+## Animation and Transitions :clapper:
 - [Using CSS transitions – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
 - [Using CSS animations – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
 - [CSS Transitions and Transforms for Beginners – Thoughtbot Blog](https://thoughtbot.com/blog/transitions-and-transforms)
