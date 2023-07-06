@@ -124,7 +124,7 @@ Tools list:
 - [Метатег viewport: почему он важен и как его правильно использовать – Timeweb Community](https://timeweb.com/ru/community/articles/metateg-viewport-pochemu-on-vazhen-i-kak-ego-pravilno-ispolzovat)
 - [Особенности адаптивного дизайна сайта – Гутдизайн](http://gutdesign.ru/shkola/directory/osobennosti_adaptivnogo_dizayna_sayta_chast_1)
 - [Формат изображений WebP: что это такое и зачем он нужен – Timeweb Community](https://timeweb.com/ru/community/articles/format-izobrazheniy-webp)
-- [<picture> Element Sample – Google](https://googlechrome.github.io/samples/picture-element/)
+- [\<picture\> Element Sample – Google](https://googlechrome.github.io/samples/picture-element/)
 
 
 ## Animation and Transitions :clapper:
